@@ -28,6 +28,6 @@
 <code><img height="20" src="https://mpng.subpng.com/20190111/thz/kisspng-mongodb-logo-database-nosql-postgresql-how-to-create-an-outstanding-tech-stack-clickup-bl-5c391bdf9cff48.4731136215472465596431.jpg"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/6/67/Couchbase%2C_Inc._official_logo.png"></code>
 
-![Raja's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajashekarb-dev&show_icons=true&theme=dark)
+![Raja's GitHub stats](https://github-readme-stats.vercel.app/api?username=shekar-raja&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajashekarb-dev&langs_count=8)](https://github.com/rajashekarb-dev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c&langs_count=8)](https://github.com/rajashekarb-dev/github-readme-stats)
