@@ -30,4 +30,4 @@
 
 ![Raja's GitHub stats](https://github-readme-stats.vercel.app/api?username=shekar-raja&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c&langs_count=8)](https://github.com/rajashekarb-dev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shekar-raja&langs_count=8)](https://github.com/shekar-raja/github-readme-stats)
