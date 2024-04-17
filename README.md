@@ -22,7 +22,7 @@
 ## EDUCATION
 
 - **MSc in Data Science and Analytics**
-  University of Hertfordshire, Hertfordshire, England
+  University of Hertfordshire, England, UK
   <br>
   Sept 2022 – Present
 
