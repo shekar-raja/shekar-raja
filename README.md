@@ -39,35 +39,22 @@
 <br>
 Oct 2022 - Present
 
-- Crafted and managed a dynamic social web app, enhancing user interaction and experience.
-- Developed custom features such as file sharing, communities, and private sites tailored to client needs.
-- Implemented features ensuring passive income through private site functionality.
-- Performed ongoing maintenance and optimization of the application.
-- Engineered CRON jobs and APIs for seamless functionality.
+- Led the development of a social media web application using the MEAN stack, serving over 5,000+ users worldwide.
+- Deployed application releases using AWS, ensuring smooth, reliable updates and minimised downtime for global users.
+- Managed and optimised databases, ensuring high availability, data integrity, and enhanced performance for critical application functions.
+- Designed, developed, and optimised both NoSQL and SQL databases, ensuring high availability, data integrity, and improved performance across diverse application use cases.
 
 **Full Stack Developer | [GroundHog](https://groundhogapps.com/)**
 <br>
 Dec 2019 – Aug 2022
 
 As a Full Stack Developer with over 3.5+ years of experience at GROUNDHOG APPS, I played a key role in developing robust web applications for the mining industry. My responsibilities and achievements include:
-- **Web Application Development:**
-  - Implemented frontend and backend systems using Angular, Node.js, Express, MongoDB, Redis, and CouchDB.
-  - Contributed to product-based development, enhancing overall system performance.
-- **API Development:**
-  - Developed RESTful APIs to handle logic and serve data to the Angular front-end.
-  - Adapted to dynamically provided user inputs and data to ensure a seamless user experience.
-- **Analytics and Reporting:**
-  - Created CRON jobs for generating accurate analytical reports on per-shift mining operations.
-  - Contributed to a 40% increase in mining capacity per shift through data-driven insights.
-- **Revenue Contribution:**
-  - Collaborated with product managers to build web applications that contributed to 60% of the overall organization's revenue.
-- **API Integration:**
-  - Integrated multiple external APIs into internal products, improving mining data accuracy.
-  - Enabled clients to access their external data within the application for comprehensive insights.
-
-- **Service-Based Web Application:**
-  - Built, tested, and reviewed code for a service-based web application.
-  - Facilitated user interaction and passive income generation through the application.
+- Designed, developed, and maintained scalable web applications for mining industry using the MEAN stack, enhancing their production capacity by 40 per cent more tonnes per shift.
+- Developed autonomous systems to generate shift-end reports, reducing manual reporting efforts by 50 per cent.
+- Developed scalable REST APIs to support new features and functionality, enhancing the overall application performance.
+- Improved database retrieval efficiency by optimising and creating new indexes, significantly reducing query times by 20 per cent.
+- Led the full development cycle of a project from scratch, gathering client requirements and delivering a final product with positive feedback.
+- Collaborated with product managers in planning and executing new product releases, ensuring smooth project delivery and alignment with client expectations.
 
 My tenure at GROUNDHOG APPS was marked by continuous innovation, collaboration with cross-functional teams, and a focus on delivering high-impact solutions to clients in the mining industry.
 
@@ -77,22 +64,34 @@ My tenure at GROUNDHOG APPS was marked by continuous innovation, collaboration w
 
 **Programming Languages:**
 <br>
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 **Frameworks & Tools:**
 <br>
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Seaborn](https://img.shields.io/badge/seaborn-%23ffffff.svg?style=for-the-badge&logo=seaborn&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black)
 
 **Databases:**
 <br>
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Couchbase](https://img.shields.io/badge/Couchbase-EA2328?style=for-the-badge&logo=couchbase&logoColor=white) 
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Project Management Tools:**
 <br>
