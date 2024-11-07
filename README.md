@@ -159,6 +159,6 @@ My tenure at GROUNDHOG APPS was marked by continuous innovation, collaboration w
 <a href="https://linkedin.com/in/raja-shekar" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="rajashekar"/></a>
 <a href="https://stackoverflow.com/users/10214490/raja-shekar" target="blank">
 <img align="center" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="rajashekar"/></a>
-<a href="mailto:rajashekarb.dev@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="rajashekar"/></a>
+<a href="mailto:rshekar.contact@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="rajashekar"/></a>
 
 <p align="right" > Created with 🖤 by <a href="https://github.com/shekar-raja">Raja Shekar</a></p>
