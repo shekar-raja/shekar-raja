@@ -5,7 +5,7 @@
 </p>
 
 <p style="text-align: justify; text-justify: inter-word;">
-Cloud Data Engineer with 5+ years of industry experience building scalable data systems, cloud infrastructure, and applied AI solutions. Currently contributing to an Innovate UK funded smart rice milling project at Koolmill Systems, where I design IoT data pipelines, multi-tenant time-series platforms, and CI/CD infrastructure on AWS. I'm driven by turning complex engineering challenges into meaningful, production-grade results.
+Senior Software Engineer with 5.5+ years of industry experience building scalable data systems, cloud infrastructure, and applied AI solutions. Currently contributing to building cloud-native AI platform that's replacing existing fragmented legacy systems at Lifebrideg Inc. I'm driven by turning complex engineering challenges into meaningful, production-grade results.
 </p>
 
 <p align="center">
