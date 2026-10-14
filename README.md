@@ -17,7 +17,7 @@ Senior Software Engineer with 5+ years of industry experience building scalable 
 ## 🌐 Portfolio
 
 <p align="center">
-  <a href="https://shekar-raja.github.io/portfolio/" target="_blank">
+  <a href="https://rshekar.me" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-shekar--raja.github.io-black?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
