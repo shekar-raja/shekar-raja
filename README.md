@@ -127,7 +127,7 @@ Innovate UK funded Digital Rice Mill Demonstrator project.
 ## 🔗 Connect with me
 
 <p align="left">
-<a href="https://shekar-raja.github.io/portfolio/" target="_blank"><img align="center" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="portfolio"/></a>
+<a href="https://rshekar.me" target="_blank"><img align="center" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="portfolio"/></a>
 <a href="https://linkedin.com/in/raja-shekar" target="_blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="rajashekar"/></a>
 <a href="https://stackoverflow.com/users/10214490/raja-shekar" target="_blank"><img align="center" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="rajashekar"/></a>
 <a href="mailto:rshekar.contact@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="rajashekar"/></a>
